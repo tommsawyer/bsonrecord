@@ -1,4 +1,5 @@
 # BSONRecord
+[![GoDoc](https://godoc.org/github.com/tommsawyer/bsonrecord?status.svg)](https://godoc.org/github.com/tommsawyer/bsonrecord)
 
 Helps you to track changes on mongodb document in golang.  
 Example usage:  
